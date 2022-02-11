@@ -52,7 +52,7 @@ body {
 } 
 
 .body { 
-   max-width: 750px;
+   max-width: 375px;
    border: none;
 } 
 
@@ -98,7 +98,7 @@ body {
    margin-top: 60px; 
 }
 
-@media screen and (max-width: 750px){
+@media screen and (max-width: 375px){
  
    .right-top, .left-bottom, .melody { 
       display: none; 
