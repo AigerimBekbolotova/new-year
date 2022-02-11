@@ -114,6 +114,7 @@ body {
 
    .title{
       font-size: 38px;
+      margin-right: 80px;
    } 
 
    .text {
@@ -122,6 +123,7 @@ body {
 
    .text, .sign span{ 
       font-size: 14px;
+      margin-right: 80px;
    } 
 
 } 
