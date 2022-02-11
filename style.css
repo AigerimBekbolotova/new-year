@@ -108,9 +108,12 @@ body {
       width: 100px;
    }
 
+   .body {
+      margin-top: 100px;
+   }
+
    .title{ 
       font-size: 52px;
-      margin-top: 200px;
    } 
 
    .text {
