@@ -52,7 +52,7 @@ body {
 } 
 
 .body { 
-   max-width: 660px; 
+   max-width: 750px;
    border: none;
 } 
 
@@ -84,7 +84,7 @@ body {
 .sign span { 
    color: white; 
    font-size: 22px; 
-   line-height: 26,69px; 
+   line-height: 26.69px;
    font-weight: 600; 
    font-family: 'Gilroy-light'; 
 } 
@@ -98,7 +98,7 @@ body {
    margin-top: 60px; 
 }
 
-@media screen and (max-width: 767px){ 
+@media screen and (max-width: 750px){
  
    .right-top, .left-bottom, .melody { 
       display: none; 
