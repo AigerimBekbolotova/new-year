@@ -52,7 +52,7 @@ body {
 } 
 
 .body { 
-   max-width: 375px;
+   max-width: 660px;
    border: none;
 } 
 
@@ -98,7 +98,7 @@ body {
    margin-top: 60px; 
 }
 
-@media screen and (max-width: 375px){
+@media screen and (max-width: 376px){
  
    .right-top, .left-bottom, .melody { 
       display: none; 
@@ -106,10 +106,6 @@ body {
 
    .left-top, .center {
       width: 100px;
-   }
-
-   .body {
-      margin-top: 100px;
    }
 
    .title{ 
@@ -133,7 +129,7 @@ body {
    p{ 
       font-size: 20px; 
       text-align: center; 
-   } 
+   }
 
    .title , .text , .sign span{ 
       color: black; 
