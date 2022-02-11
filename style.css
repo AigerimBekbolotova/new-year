@@ -78,7 +78,8 @@ body {
    display: flex; 
    text-align: center; 
    justify-content: center; 
-   font-family: 'Gilroy-light'; 
+   font-family: 'Gilroy-light';
+   margin-left: 70px;
 } 
 
 .sign span { 
