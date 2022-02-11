@@ -28,6 +28,9 @@ body {
    right: 0; 
 }  
 
+.left-top {
+   margin-top: 0;
+}
 .left-bottom { 
    position: absolute; 
    bottom: 0; 
